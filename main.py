@@ -4,4 +4,4 @@
  """
 
 if __name__ == '__main__':
-    pass
+    print("https://item.jd.com/{}.html".format(111))
